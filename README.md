@@ -48,5 +48,4 @@
 ---
 
 ## 📫 Contact me (Native lang is Russian)
-Order a plugin by me.
 - Telegram: [@doomgxard](https://t.me/doomgxard) 
